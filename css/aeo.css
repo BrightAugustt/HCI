@@ -1,0 +1,92 @@
+.admin{
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.header{
+    /* margin-left: 227px; */
+    /* padding-left: 50px; */
+    color: rgba(4, 255, 0, 0.807);
+    display: flex;
+    /* justify-content: center; */
+    margin-bottom: 30px;
+}
+
+h6{
+    padding-left: 30px;
+}
+
+.nav-item{
+    margin:auto;
+    margin-top: 20px;
+}
+.dashboard{
+    /* margin-top: 40px; */
+    font-size:18px;
+    font-weight: 700;
+
+}
+
+
+.icon{
+    margin-right: 5px;
+}
+
+.crop{
+    margin-right: 15px;
+}
+
+.record{
+    margin-right: 15px;
+}
+
+.profile{
+    margin-right: 15px;
+}
+
+.help{
+    margin-right: 15px;
+}
+
+hr{
+    margin-top: 20px;
+    margin-left:20px;
+    width: 200px;
+}
+
+
+
+.heading{
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.card{
+    /* border: 0.2px solid hsla(0, 0%, 0%, 0.5); */
+    box-shadow: 8px 8px 20px -10px #ab98ab;
+}
+
+.btn-success{
+    background-color: #16AD22;
+}
+
+.btn-outline-success:hover {
+    background-color: #16AD22;
+    color: white;
+  }
+
+
+  /* .wrapper {
+    width: 600px;
+} */
+
+.form-floating{
+    margin-bottom: 20px;
+}
+
+/* .over{
+  
+} */
+
